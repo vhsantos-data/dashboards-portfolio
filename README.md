@@ -15,7 +15,7 @@ Monitors daily operational failures across 4 business areas with:
 - Timeline chart showing daily trends
 - Filter by date, team, and failure type
 
-> 📸 *[Screenshot placeholder — add your Looker screenshot here]*
+- (will update with photos)
 
 ---
 
@@ -27,7 +27,7 @@ Weekly aggregated view with:
 - Top representatives with most failures per team
 - Failure type distribution stacked chart
 
-> 📸 *[Screenshot placeholder — add your Looker screenshot here]*
+> (Will update with photos)
 
 ---
 
@@ -40,7 +40,7 @@ Comprehensive monthly overview including:
 - Ranking table of representatives for abuse detection
 - Failure type breakdown by team (pie/bar charts)
 
-> 📸 *[Screenshot placeholder — add your Looker screenshot here]*
+> (Will Update with Photos)
 
 ---
 
